@@ -1,18 +1,9 @@
 # Descrição
-Adicionar aqui uma descrição do que foi feito.
+Foram feitos o fork, adicição dos contribuidores via GitHub ,as devidas clonagens do repositorio remoto dev. A criação das branch´s feature para cada function por cada membro do grupo. git clone, git pull, git branch, git checkout, git merge, git add ,git status, git commit e git push.  
 
-Ex.:
-Adiciona módulo de mensagens com remetente, destinatário e vinculado a uma solicitação.
 
 ## Implementa
-Citar aqui o que foi implementado (Pode ser em forma de itens)
-
-Ex.:
-- Criação de mensagens
-- Listagem de mensagens por solicitação
-- Listagem de mensagens por usuários
-- Adição de subscription
-- Demais queries e mutations do nest-query
+Foram implementados as alterações na calculator.js, readme.md e pull_request.
 
 ## Ajusta
 Caso na implementação, além da proposta principal da entrega, tenha sido feito algum ajuste, citar aqui.
@@ -22,32 +13,17 @@ Ex.:
 - Módulo de Solicitations para listar mensagens
 
 ## Corrige
-Caso alguma correção tenha sido feita, citar aqui.
-
-Ex.:
-- Nada relevante
 
 ## Fecha
-Enviar aqui o link da Issue que está sendo fechada.
-
-Ex.:
-Issue 7 - https://github.com/felipehaertelsenac/atividade1-esii/issues/7
 
 ## Tipo de mudança (marcar as alternativas que se encaixam)
-- [ ] Nova Funcionalidade
+- [X] Nova Funcionalidade
 - [ ] Correções de bugs
 - [ ] Ajuste
 
-Ex.:
-- [x] Nova Funcionalidade
-- [ ] Correções de bugs
-- [x] Ajuste
 
 # Como foi testado?
-Explicar aqui como foi testada a entrega.
-
-Ex.:
-Testes manuais no insomnia.
+Testado com git status, git log e etc...
 
 ### Exemplo:
 #### Criação de mensagem
@@ -69,7 +45,7 @@ Checklist:
 - [ ] Escrevi testes automatizados necessários para esta entrega
 - [x] Testei exaustivamente a entrega
 - [x] Revisei o código que está sendo entregue
-- [x] Documentei de alguma forma o que foi feito para auxiliar próximos devs (em código, insomnia, documentos auxiliares)
+- [] Documentei de alguma forma o que foi feito para auxiliar próximos devs (em código, insomnia, documentos auxiliares)
 - [x] Minhas mudanças não geram nenhum motivo de alerta ou possível quebra de outras funcionalidades
 
 # Informações adicionais:
